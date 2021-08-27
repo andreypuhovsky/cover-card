@@ -81,6 +81,7 @@ a {
 @media (max-width: 450px) {
 ul {
     text-align: center;
+    padding-bottom: 20px;
 }
 li {
     border-radius: 0%;
